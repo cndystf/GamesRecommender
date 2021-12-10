@@ -1,2 +1,2 @@
-# Games_Recommender
-An example of Game Recommender based on the content. Input a game title and then there are 20 similar games as the results. 
+The dataset is from Kaggle, contains 18.000+ data of Top Video Games based on Metacritic from 1995-2021. 
+This project is my Big Data assignment.
